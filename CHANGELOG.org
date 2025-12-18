@@ -1,4 +1,6 @@
 * Changelog
+** 0.2.30
+Various updates upto Allegro5 5.2.11.1, added missing constants/functions, and added new ones
 ** 0.2.29
 Fixed compiler warnings, Added missing export symbols, Improvements to joystick state API (PR #61)
 ** 0.2.28
