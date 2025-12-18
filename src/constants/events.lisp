@@ -11,6 +11,7 @@
   (:key-up 12)
 
   (:mouse-axis 20)
+  (:mouse-axes 20)
   (:mouse-button-down 21)
   (:mouse-button-up 22)
   (:mouse-enter-display 23)
