@@ -23,6 +23,7 @@
   (video :pointer))
 (defcfun ("al_get_video_scaled_height" get-video-scaled-height) :float
   (video :pointer))
+(defcfun ("al_open_video_f" open-video-f) :pointer (fp :pointer) (ident :string))
 (defcfun ("al_get_video_frame" get-video-frame) :pointer (video :pointer))
 (defcfun ("al_get_video_position" get-video-position) :double
   (video :pointer) (which video-position-type))
