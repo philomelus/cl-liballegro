@@ -1192,6 +1192,7 @@
    #:get-video-fps
    #:get-video-scaled-width
    #:get-video-scaled-height
+   #:open-video-f
    #:get-video-frame
    #:get-video-position
    #:seek-video))
